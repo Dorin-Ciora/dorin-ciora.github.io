@@ -1,0 +1,36 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-width: 0px;
+  height: 10px;
+}
+
+.text_present {
+  color: transparent;
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.87);
+  font-size: 35px;
+}
+
+.Offer {
+  font-size: 20px;
+}
+
+header.Landing {
+  background-position: center;
+  background-image: url("glasses4.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+.container {
+  margin-top: 50px;
+  margin-left: 10px;
+}
